@@ -4,8 +4,8 @@ Hey there! I am Xileof and I am a he/him who loves and enjoys listening to Music
 
 **About Me**
 
-- I use [Python][PythonWebsite] and [Visual Studio Code][VisualStudioCodeWebsite]!
-- I am currently learning [Node.JS][Node.JSWebsite], [JavaScript][JavaScriptWebsite] and [Java][JavaWebsite]!
+- I primarily use [Python][PythonWebsite] and [Visual Studio Code][VisualStudioCodeWebsite] for coding
+- I am currently learning [JavaScript][JavaScriptWebsite], [HTML](https://html.spec.whatwg.org/) and [CSS](https://www.w3.org/Style/CSS/)
 - I am currently working on a Discord Bot
 - Pronouns - He/Him
 - Contact - xileof@hotmail.com
