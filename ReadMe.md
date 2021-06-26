@@ -26,9 +26,9 @@ Hey there! I am Xileof and I am a he/him who loves and enjoys listening to Music
 
 [<image align="left" alt="Visual Studio Code" width="40px" src="https://user-images.githubusercontent.com/84028608/119250816-5b454480-bbab-11eb-92ce-755e4d9b595c.png" />][VisualStudioCodeWebsite]
 [<image align="left" alt="Python" width="40px" src="https://user-images.githubusercontent.com/84028608/119250888-d0b11500-bbab-11eb-8f79-a754bea10da4.png" />][PythonWebsite]
-[<image align="left" alt="Node.js" width="40px" src="https://user-images.githubusercontent.com/84028608/119250927-238acc80-bbac-11eb-8f22-561880d01e84.png" />][Node.JSWebsite]
-[<image alt="left" alt="Java" width="40px" src=https://user-images.githubusercontent.com/84028608/119250984-88462700-bbac-11eb-9146-d8fefa9641e6.png />][JavaWebsite]
 [<image align="left" alt="JavaScript" width="40px" src=https://user-images.githubusercontent.com/84028608/119251024-ce9b8600-bbac-11eb-9789-e8581bb46cd5.png />][JavaScriptWebsite]
+[<image align="left" alt="HTML" width="40px" src="https://user-images.githubusercontent.com/86468309/123501965-53b50780-d651-11eb-9994-59468245a2f5.png"/>][HTMLWebsite]
+[<image align="left" alt="CSS" width="40px" src="https://user-images.githubusercontent.com/86468309/123502057-038a7500-d652-11eb-81b8-ee1d17cd6550.png"/>][CSSWebsite]
 
 <br />
 <br />
@@ -38,6 +38,8 @@ Hey there! I am Xileof and I am a he/him who loves and enjoys listening to Music
 [Node.JSWebsite]: https://nodejs.org/
 [JavaWebsite]: https://java.com/
 [JavaScriptWebsite]: https://javascript.com/
+[HTMLWebsite]: https://html.spec.whatwg.org/
+[CSSWebsite]: https://www.w3.org/Style/CSS/
 
 
 <br />
