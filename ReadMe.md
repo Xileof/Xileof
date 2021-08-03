@@ -1,6 +1,6 @@
 ## **Hey, there!** 
 
-Hey there! I am Xileof and I am a he/him who loves and enjoys listening to Music, making and watching Videos, playing Video Games and I even Code at times!
+Hey! I am Xileof. I am a he/him who loves and enjoys listening to music, making youtube videos, playing video games and code!
 
 **About Me**
 
